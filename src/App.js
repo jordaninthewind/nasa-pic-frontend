@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import PhotosContainer from './containers/PhotosContainer'
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import NavBar from './containers/Navbar'
+
 
 class App extends Component {
   render() {
